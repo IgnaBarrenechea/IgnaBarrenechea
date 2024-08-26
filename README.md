@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hola !!  👋
+Comencé mi carrera laboral en 2013 trabajando durante un año en el sector auditoría para la empresa E&Y. Luego me gradué de Contador en UADE y en 2015 ingresé a la empresa Johnson & Johnson trabajando en el sector finanzas-costos. Con la experiencia adquirida comencé a trabajar para una empresa familiar que se dedica tanto a la explotación de minas y canteras y también a la explotación agrícola. Adquirí muchos conocimientos y experiencia a los largo de estos años trabajando allí y en la actualidad trabajo en la Administración general de la misma.
 
+En 2022 comencé a formarme en IT, primero como Data Analytics en un curso de Coder House. Luego 
+ hice un curso en Digital House, aprendiendo a programar en JavaScript. Actualmente estoy cursando en Henry, el curso de Data Analytics. Me gustaría poder ser parte de un equipo IT y desarrollarme profesionalmente allí como Data Analytics. Apostando siempre al crecimiento y a la formación continua.
+
+Mail de contacto: ibarrenechea79@gmail.com
+Mi GitHub: https://github.com/IgnaBarrenechea
 <!--
 **IgnaBarrenechea/IgnaBarrenechea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
